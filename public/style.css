@@ -1,0 +1,33 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+</style>
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.site-name {
+  margin: 0;
+  font-weight:100;
+}
+
+.note {
+    min-width: 200px;
+    min-height:100px;
+    padding:10px;
+    margin:20px;
+    display: inline-flex;
+}
+
+.form-area {
+    margin: 10px 10%;
+    padding: 25px 50px;
+}
+
+.footer {
+    position: absolute; 
+    width: 100%;    
+    text-align: center;
+}
